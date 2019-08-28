@@ -1,0 +1,14 @@
+C:\segfy\segFy\ApoliceSegFy\ApoliceSegfy.Api\bin\Debug\netcoreapp2.2\ApoliceSegfy.Api.deps.json
+C:\segfy\segFy\ApoliceSegFy\ApoliceSegfy.Api\bin\Debug\netcoreapp2.2\ApoliceSegfy.Api.runtimeconfig.json
+C:\segfy\segFy\ApoliceSegFy\ApoliceSegfy.Api\bin\Debug\netcoreapp2.2\ApoliceSegfy.Api.runtimeconfig.dev.json
+C:\segfy\segFy\ApoliceSegFy\ApoliceSegfy.Api\bin\Debug\netcoreapp2.2\ApoliceSegfy.Api.dll
+C:\segfy\segFy\ApoliceSegFy\ApoliceSegfy.Api\bin\Debug\netcoreapp2.2\ApoliceSegfy.Api.pdb
+C:\segfy\segFy\ApoliceSegFy\ApoliceSegfy.Api\obj\Debug\netcoreapp2.2\ApoliceSegfy.Api.csprojAssemblyReference.cache
+C:\segfy\segFy\ApoliceSegFy\ApoliceSegfy.Api\obj\Debug\netcoreapp2.2\ApoliceSegfy.Api.csproj.CoreCompileInputs.cache
+C:\segfy\segFy\ApoliceSegFy\ApoliceSegfy.Api\obj\Debug\netcoreapp2.2\ApoliceSegfy.Api.RazorAssemblyInfo.cache
+C:\segfy\segFy\ApoliceSegFy\ApoliceSegfy.Api\obj\Debug\netcoreapp2.2\ApoliceSegfy.Api.RazorAssemblyInfo.cs
+C:\segfy\segFy\ApoliceSegFy\ApoliceSegfy.Api\obj\Debug\netcoreapp2.2\ApoliceSegfy.Api.AssemblyInfoInputs.cache
+C:\segfy\segFy\ApoliceSegFy\ApoliceSegfy.Api\obj\Debug\netcoreapp2.2\ApoliceSegfy.Api.AssemblyInfo.cs
+C:\segfy\segFy\ApoliceSegFy\ApoliceSegfy.Api\obj\Debug\netcoreapp2.2\ApoliceSegfy.Api.RazorTargetAssemblyInfo.cache
+C:\segfy\segFy\ApoliceSegFy\ApoliceSegfy.Api\obj\Debug\netcoreapp2.2\ApoliceSegfy.Api.dll
+C:\segfy\segFy\ApoliceSegFy\ApoliceSegfy.Api\obj\Debug\netcoreapp2.2\ApoliceSegfy.Api.pdb
